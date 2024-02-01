@@ -1,4 +1,4 @@
-html{
+body{
     background-color: darkgray;
     color: black;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
@@ -37,4 +37,15 @@ h2{
 
 .Contact{
     text-decoration:  none;
+}
+
+li{
+    color: white;
+}
+
+#navbarStyle{
+    background-color: darkgray;
+}
+footer{
+    background-color: gray;
 }
