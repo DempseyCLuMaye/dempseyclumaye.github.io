@@ -82,3 +82,12 @@ li{
 footer{
     background-color: gray;
 }
+
+
+@font-face {
+    font-family: 'Font Awesome Free';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('https://kit.fontawesome.com/6b0e7f5b0e.js') format('woff2');
+}
